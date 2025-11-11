@@ -1,0 +1,516 @@
+gse_number,geo_accession,sample_id,submission_date,age,gender,condition,condition_original,icu_severity,variant,contact_country
+GSE162562,GSM4954457,SRR13186965,44167,27,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_1_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954458,SRR13186966,44167,56,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_20_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954459,SRR13186967,44167,26,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_57_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954460,SRR13186968,44167,28,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_72_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954461,SRR13186969,44167,60,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_74_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954462,SRR13186970,44167,36,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_85_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954463,SRR13186971,44167,31,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_100_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954464,SRR13186972,44167,33,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_118_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954465,SRR13186973,44167,10,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_128_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954466,SRR13186974,44167,53,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_343_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954467,SRR13186975,44167,42,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_354_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954468,SRR13186976,44167,20,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_355_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954469,SRR13186977,44167,51,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_358_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954470,SRR13186978,44167,21,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_361_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954471,SRR13186979,44167,62,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_372_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954472,SRR13186980,44167,64,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_374_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954473,SRR13186981,44167,24,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_378_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954474,SRR13186982,44167,51,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_383_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954475,SRR13186983,44167,60,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_399_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954476,SRR13186984,44167,7,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_424_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954477,SRR13186985,44167,10,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_428_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954478,SRR13186986,44167,60,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_444_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954479,SRR13186987,44167,54,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_765_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954480,SRR13186988,44167,56,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_776_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954481,SRR13186989,44167,32,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_779_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954482,SRR13186990,44167,31,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_797_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954483,SRR13186991,44167,20,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_846_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954484,SRR13186992,44167,31,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_847_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954485,SRR13186993,44167,31,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_862_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954486,SRR13186994,44167,47,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_875_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954487,SRR13186995,44167,50,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_881_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954488,SRR13186996,44167,24,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_883_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954489,SRR13186997,44167,3,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_907_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954490,SRR13186998,44167,36,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_923_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954491,SRR13186999,44167,21,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_932_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954492,SRR13187000,44167,8,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_974_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954493,SRR13187001,44167,62,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_1069_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954494,SRR13187002,44167,69,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_1070_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954495,SRR13187003,44167,51,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_1093_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954496,SRR13187004,44167,30,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_1109_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954497,SRR13187005,44167,50,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_1195_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954498,SRR13187006,44167,53,male,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_1526_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954499,SRR13187007,44167,1,female,acuteCOVID,"diseas state: Seropositive asymptomatic COVID-19",A_1574_Asymptom,,"Austria - Ischgl"
+GSE162562,GSM4954500,SRR13187008,44167,24,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_21_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954501,SRR13187009,44167,32,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_28_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954503,SRR13187011,44167,34,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_53_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954504,SRR13187012,44167,56,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_59_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954505,SRR13187013,44167,86,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_63_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954506,SRR13187014,44167,63,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_76_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954507,SRR13187015,44167,59,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_88_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954508,SRR13187016,44167,53,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_103_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954509,SRR13187017,44167,29,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_110_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954510,SRR13187018,44167,31,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_123_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954511,SRR13187019,44167,31,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_142_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954512,SRR13187020,44167,24,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_143_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954513,SRR13187021,44167,59,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_144_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954514,SRR13187022,44167,14,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_151_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954516,SRR13187024,44167,49,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_342_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954517,SRR13187025,44167,23,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_346_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954519,SRR13187027,44167,57,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_362_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954520,SRR13187028,44167,60,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_366_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954521,SRR13187029,44167,65,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_368_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954522,SRR13187030,44167,47,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_375_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954523,SRR13187031,44167,52,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_376_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954524,SRR13187032,44167,45,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_377_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954525,SRR13187033,44167,71,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_393_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954526,SRR13187034,44167,54,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_398_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954527,SRR13187035,44167,68,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_403_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954528,SRR13187036,44167,49,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_405_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954529,SRR13187037,44167,58,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_410_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954530,SRR13187038,44167,12,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_417_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954532,SRR13187040,44167,5,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_419_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954533,SRR13187041,44167,18,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_420_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954534,SRR13187042,44167,15,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_421_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954535,SRR13187043,44167,14,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_422_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954536,SRR13187044,44167,16,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_423_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954537,SRR13187045,44167,16,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_425_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954538,SRR13187046,44167,18,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_427_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954539,SRR13187047,44167,8,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_429_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954540,SRR13187048,44167,14,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_430_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954541,SRR13187049,44167,17,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_431_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954543,SRR13187051,44167,66,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_433_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954544,SRR13187052,44167,22,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_434_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954545,SRR13187053,44167,46,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_436_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954546,SRR13187054,44167,48,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_439_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954547,SRR13187055,44167,58,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_446_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954548,SRR13187056,44167,47,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_448_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954549,SRR13187057,44167,5,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_1560_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954550,SRR13187058,44167,3,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_1562_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954551,SRR13187059,44167,5,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",B_1573_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954552,SRR13187060,44167,67,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",C_379_Healthy,,"Austria - Ischgl"
+GSE162562,GSM4954553,SRR13187061,44167,54,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",C_397_Healthy,,"Austria - Ischgl"
+GSE162562,GSM4954554,SRR13187062,44167,51,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",C_401_Healthy,,"Austria - Ischgl"
+GSE162562,GSM4954555,SRR13187063,44167,59,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",C_407_Healthy,,"Austria - Ischgl"
+GSE162562,GSM4954556,SRR13187064,44167,75,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",C_413_Healthy,,"Austria - Ischgl"
+GSE162562,GSM4954557,SRR13187065,44167,51,male,acuteCOVID,"diseas state: mild COVID-19",D_11_Mild,,"Austria - Ischgl"
+GSE162562,GSM4954558,SRR13187066,44167,59,male,acuteCOVID,"diseas state: mild COVID-19",D_15_Mild,,"Austria - Ischgl"
+GSE162562,GSM4954559,SRR13187067,44167,29,male,acuteCOVID,"diseas state: mild COVID-19",D_18_Mild,,"Austria - Ischgl"
+GSE162562,GSM4954560,SRR13187068,44167,61,male,acuteCOVID,"diseas state: mild COVID-19",D_2100_Mild,,"Austria - Ischgl"
+GSE162562,GSM4954561,SRR13187069,44167,26,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",E_12_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954562,SRR13187070,44167,59,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",E_13_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954563,SRR13187071,44167,24,female,exposedNoSymptoms,"diseas state: highly exposed Seronegative",E_16_Seronegative,,"Austria - Ischgl"
+GSE162562,GSM4954564,SRR13187072,44167,28,male,exposedNoSymptoms,"diseas state: highly exposed Seronegative",E_17_Seronegative,,"Austria - Ischgl"
+GSE174621,GSM5320667,SRR14577405,44334,91,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: moderate",B.1.351-ID1_1st,USA
+GSE174621,GSM5320668,SRR14577406,44334,91,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: moderate",B.1.351-ID1_2nd,USA
+GSE174621,GSM5320669,SRR14577407,44334,91,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: moderate",B.1.351-ID1_3rd,USA
+GSE174621,GSM5320670,SRR14577408,44334,80,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID2_1st,USA
+GSE174621,GSM5320671,SRR14577409,44334,80,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID2_2nd,USA
+GSE174621,GSM5320672,SRR14577410,44334,80,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID2_3rd,USA
+GSE174621,GSM5320673,SRR14577411,44334,80,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID2_4th,USA
+GSE174621,GSM5320674,SRR14577412,44334,85,male,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: mild",B.1.351-ID3_1st,USA
+GSE174621,GSM5320675,SRR14577413,44334,85,male,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: mild",B.1.351-ID3_2nd,USA
+GSE174621,GSM5320676,SRR14577414,44334,85,male,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: mild",B.1.351-ID3_3rd,USA
+GSE174621,GSM5320677,SRR14577415,44334,87,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID4_1st,USA
+GSE174621,GSM5320678,SRR14577416,44334,71,male,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID5_1st,USA
+GSE174621,GSM5320679,SRR14577417,44334,71,male,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID5_2nd,USA
+GSE174621,GSM5320680,SRR14577418,44334,71,male,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID5_3rd,USA
+GSE174621,GSM5320681,SRR14577419,44334,71,male,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID5_4th,USA
+GSE174621,GSM5320682,SRR14577420,44334,79,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID6_1st,USA
+GSE174621,GSM5320683,SRR14577421,44334,79,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID6_2nd,USA
+GSE174621,GSM5320684,SRR14577422,44334,79,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID6_3rd,USA
+GSE174621,GSM5320685,SRR14577423,44334,58,male,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID7_1st,USA
+GSE174621,GSM5320686,SRR14577424,44334,58,male,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID7_2nd,USA
+GSE174621,GSM5320687,SRR14577425,44334,58,male,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: severe",B.1.351-ID7_3rd,USA
+GSE174621,GSM5320688,SRR14577426,44334,62,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: moderate",B.1.351-ID14_1st,USA
+GSE174621,GSM5320689,SRR14577427,44334,62,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: moderate",B.1.351-ID14_2nd,USA
+GSE174621,GSM5320690,SRR14577428,44334,48,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: moderate",B.1.351-ID24_1st,USA
+GSE174621,GSM5320691,SRR14577429,44334,48,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: moderate",B.1.351-ID24_2nd,USA
+GSE174621,GSM5320692,SRR14577430,44334,48,female,acuteCOVID,"disease state: COVID-19_B.1.351 varient","severity: moderate",B.1.351-ID24_3rd,USA
+GSE178824,GSM5398372,SRR14904140,44371,71,male,acuteCOVID,"disease_stage: Severe",Severe,"G-MDSCs 048",USA
+GSE178824,GSM5398373,SRR14904141,44371,82,male,acuteCOVID,"disease_stage: Severe",Severe,"G-MDSCs 049",USA
+GSE178824,GSM5398374,SRR14904142,44371,64,female,acuteCOVID,"disease_stage: Severe",Severe,"G-MDSCs 050",USA
+GSE178824,GSM5398375,SRR14904143,44371,68,male,acuteCOVID,"disease_stage: Asymptomatic",Asymptomatic,"G-MDSCs 053",USA
+GSE178824,GSM5398376,SRR14904144,44371,53,female,acuteCOVID,"disease_stage: Asymptomatic",Asymptomatic,"G-MDSCs 054",USA
+GSE178824,GSM5398377,SRR14904145,44371,56,male,acuteCOVID,"disease_stage: Severe",Severe,"G-MDSCs 058",USA
+GSE178824,GSM5398378,SRR14904146,44371,55,male,acuteCOVID,"disease_stage: Control",Control,"G-MDSCs 059",USA
+GSE178824,GSM5398379,SRR14904147,44371,52,female,acuteCOVID,"disease_stage: Control",Control,"G-MDSCs 060",USA
+GSE178824,GSM5398380,SRR14904148,44371,36,male,acuteCOVID,"disease_stage: Asymptomatic",Asymptomatic,"G-MDSCs 061",USA
+GSE178824,GSM5398381,SRR14904149,44371,28,female,acuteCOVID,"disease_stage: Asymptomatic",Asymptomatic,"G-MDSCs 062",USA
+GSE178824,GSM5398382,SRR14904150,44371,52,female,acuteCOVID,"disease_stage: Convalescent",Convalescent,"G-MDSCs 066",USA
+GSE178824,GSM5398383,SRR14904151,44371,59,female,acuteCOVID,"disease_stage: Convalescent",Convalescent,"G-MDSCs 067",USA
+GSE178824,GSM5398384,SRR14904152,44371,62,male,acuteCOVID,"disease_stage: Convalescent",Convalescent,"G-MDSCs 069",USA
+GSE178824,GSM5398385,SRR14904153,44371,39,female,acuteCOVID,"disease_stage: Convalescent",Convalescent,"G-MDSCs 072",USA
+GSE178824,GSM5398386,SRR14904154,44371,61,male,acuteCOVID,"disease_stage: Control",Control,"G-MDSCs KR",USA
+GSE178824,GSM5398387,SRR14904155,44371,41,female,acuteCOVID,"disease_stage: Control",Control,"G-MDSCs MS",USA
+GSE179627,GSM5425228,SRR15058581,44384,19,male,acuteCOVID,"disease state: COVID-19 patient",asymptomatic,,China
+GSE179627,GSM5425229,SRR15058582,44384,40,male,acuteCOVID,"disease state: COVID-19 patient",asymptomatic,,China
+GSE179627,GSM5425230,SRR15058583,44384,47,male,acuteCOVID,"disease state: COVID-19 patient",asymptomatic,,China
+GSE179627,GSM5425231,SRR15058584,44384,23,female,acuteCOVID,"disease state: COVID-19 patient",asymptomatic,,China
+GSE179627,GSM5425232,SRR15058585,44384,27,female,acuteCOVID,"disease state: COVID-19 patient",asymptomatic,,China
+GSE179627,GSM5425233,SRR15058586,44384,24,female,acuteCOVID,"disease state: COVID-19 patient",asymptomatic,,China
+GSE179627,GSM5425234,SRR15058587,44384,41,male,acuteCOVID,"disease state: COVID-19 patient",asymptomatic,,China
+GSE179627,GSM5425235,SRR15058588,44384,33,female,acuteCOVID,"disease state: COVID-19 patient",asymptomatic,,China
+GSE179627,GSM5425236,SRR15058589,44384,65,male,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425237,SRR15058590,44384,84,female,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425238,SRR15058591,44384,37,male,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425239,SRR15058592,44384,62,male,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425240,SRR15058593,44384,19,male,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425241,SRR15058594,44384,60,male,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425242,SRR15058595,44384,75,female,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425243,SRR15058596,44384,25,male,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425244,SRR15058597,44384,68,male,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425245,SRR15058598,44384,69,female,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425246,SRR15058599,44384,31,female,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425247,SRR15058600,44384,56,female,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425248,SRR15058601,44384,8,male,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425249,SRR15058602,44384,18,male,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425250,SRR15058603,44384,31,male,recovered,"disease state: COVID-19 patient",recovering,,China
+GSE179627,GSM5425251,SRR15058604,44384,28,male,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425252,SRR15058605,44384,33,female,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425253,SRR15058606,44384,62,female,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425254,SRR15058607,44384,60,male,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425255,SRR15058608,44384,57,male,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425256,SRR15058609,44384,37,female,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425257,SRR15058610,44384,26,male,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425258,SRR15058611,44384,25,male,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425259,SRR15058612,44384,68,female,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425260,SRR15058613,44384,15,female,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425261,SRR15058614,44384,59,male,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425262,SRR15058615,44384,22,female,acuteCOVID,"disease state: COVID-19 patient","re-detectable positive patients",,China
+GSE179627,GSM5425263,SRR15058616,44384,56,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425264,SRR15058617,44384,22,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425265,SRR15058618,44384,28,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425266,SRR15058619,44384,36,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425267,SRR15058620,44384,26,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425268,SRR15058621,44384,27,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425269,SRR15058622,44384,42,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425270,SRR15058623,44384,39,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425271,SRR15058624,44384,45,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425272,SRR15058625,44384,33,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425273,SRR15058626,44384,31,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425274,SRR15058627,44384,40,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425275,SRR15058628,44384,24,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425276,SRR15058629,44384,30,female,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425277,SRR15058630,44384,24,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425278,SRR15058631,44384,25,female,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425279,SRR15058632,44384,27,female,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425280,SRR15058633,44384,29,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425281,SRR15058634,44384,35,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425282,SRR15058635,44384,28,female,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425283,SRR15058636,44384,39,male,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425284,SRR15058637,44384,36,female,healthy,"disease state: COVID-19 patient",uninfected,,China
+GSE179627,GSM5425285,SRR15058638,44384,49,female,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425286,SRR15058639,44384,22,female,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425287,SRR15058640,44384,19,male,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425288,SRR15058641,44384,48,female,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425289,SRR15058642,44384,60,female,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425290,SRR15058643,44384,22,female,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425291,SRR15058644,44384,48,female,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425292,SRR15058645,44384,33,female,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425293,SRR15058646,44384,44,female,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425294,SRR15058647,44384,25,female,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425295,SRR15058648,44384,27,male,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425296,SRR15058649,44384,32,male,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE179627,GSM5425297,SRR15058650,44384,73,female,acuteCOVID,"disease state: COVID-19 patient",symptomatic,,China
+GSE190680,GSM5728881,SRR17197297,44540,33,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S39_1st,USA
+GSE190680,GSM5728882,SRR17197298,44540,33,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S39_2nd,USA
+GSE190680,GSM5728883,SRR17197299,44540,33,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S39_3rd,USA
+GSE190680,GSM5728884,SRR17197300,44540,73,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S40_1st,USA
+GSE190680,GSM5728885,SRR17197301,44540,73,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S40_2nd,USA
+GSE190680,GSM5728886,SRR17197302,44540,73,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S40_3rd,USA
+GSE190680,GSM5728887,SRR17197303,44540,84,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S41_1st,USA
+GSE190680,GSM5728888,SRR17197304,44540,84,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S41_2nd,USA
+GSE190680,GSM5728889,SRR17197305,44540,84,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S41_3rd,USA
+GSE190680,GSM5728890,SRR17197306,44540,57,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S45_1st,USA
+GSE190680,GSM5728891,SRR17197307,44540,57,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S45_2nd,USA
+GSE190680,GSM5728892,SRR17197308,44540,86,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S51_1st,USA
+GSE190680,GSM5728893,SRR17197309,44540,86,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S51_2nd,USA
+GSE190680,GSM5728894,SRR17197310,44540,78,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S52_1st,USA
+GSE190680,GSM5728895,SRR17197311,44540,87,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S53_1st,USA
+GSE190680,GSM5728896,SRR17197312,44540,87,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S53_2nd,USA
+GSE190680,GSM5728897,SRR17197313,44540,87,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S53_3rd,USA
+GSE190680,GSM5728898,SRR17197314,44540,80,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S54_1st,USA
+GSE190680,GSM5728899,SRR17197315,44540,80,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S54_2nd,USA
+GSE190680,GSM5728900,SRR17197316,44540,80,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S54_3rd,USA
+GSE190680,GSM5728901,SRR17197317,44540,61,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S57_1st,USA
+GSE190680,GSM5728902,SRR17197318,44540,45,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S58_1st,USA
+GSE190680,GSM5728903,SRR17197319,44540,82,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S59_1st,USA
+GSE190680,GSM5728904,SRR17197320,44540,82,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S59_2nd,USA
+GSE190680,GSM5728905,SRR17197321,44540,82,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S59_3rd,USA
+GSE190680,GSM5728906,SRR17197322,44540,74,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S60_1st,USA
+GSE190680,GSM5728907,SRR17197323,44540,74,male,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S60_2nd,USA
+GSE190680,GSM5728908,SRR17197324,44540,31,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S62_1st,USA
+GSE190680,GSM5728909,SRR17197325,44540,31,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S62_2nd,USA
+GSE190680,GSM5728910,SRR17197326,44540,31,female,acuteCOVID,"diseas state: COVID-19_Alpha_E484K varient",,Alpha_E484K_S62_3rd,USA
+GSE190680,GSM5728911,SRR17197327,44540,67,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S08_1st,USA
+GSE190680,GSM5728912,SRR17197328,44540,67,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S08_2nd,USA
+GSE190680,GSM5728913,SRR17197329,44540,53,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S10_1st,USA
+GSE190680,GSM5728914,SRR17197330,44540,53,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S10_2nd,USA
+GSE190680,GSM5728915,SRR17197331,44540,65,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S11_1st,USA
+GSE190680,GSM5728916,SRR17197332,44540,65,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S11_2nd,USA
+GSE190680,GSM5728917,SRR17197333,44540,65,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S11_3rd,USA
+GSE190680,GSM5728918,SRR17197334,44540,54,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S19_1st,USA
+GSE190680,GSM5728919,SRR17197335,44540,54,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S19_2nd,USA
+GSE190680,GSM5728920,SRR17197336,44540,93,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S20_1st,USA
+GSE190680,GSM5728921,SRR17197337,44540,93,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S20_2nd,USA
+GSE190680,GSM5728922,SRR17197338,44540,60,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S21_1st,USA
+GSE190680,GSM5728923,SRR17197339,44540,60,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S21_2nd,USA
+GSE190680,GSM5728924,SRR17197340,44540,39,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S22_2nd,USA
+GSE190680,GSM5728925,SRR17197341,44540,60,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S23_2nd,USA
+GSE190680,GSM5728926,SRR17197342,44540,79,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S26_1st,USA
+GSE190680,GSM5728927,SRR17197343,44540,75,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S27_1st,USA
+GSE190680,GSM5728928,SRR17197344,44540,75,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S27_2nd,USA
+GSE190680,GSM5728929,SRR17197345,44540,81,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S28_1st,USA
+GSE190680,GSM5728930,SRR17197346,44540,81,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S28_2nd,USA
+GSE190680,GSM5728931,SRR17197347,44540,78,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S29_1st,USA
+GSE190680,GSM5728932,SRR17197348,44540,78,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S29_2nd,USA
+GSE190680,GSM5728933,SRR17197349,44540,76,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S30_1st,USA
+GSE190680,GSM5728934,SRR17197350,44540,76,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S30_2nd,USA
+GSE190680,GSM5728935,SRR17197351,44540,72,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S31_1st,USA
+GSE190680,GSM5728936,SRR17197352,44540,86,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S32_1st,USA
+GSE190680,GSM5728937,SRR17197353,44540,84,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S33_1st,USA
+GSE190680,GSM5728938,SRR17197354,44540,84,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S33_2nd,USA
+GSE190680,GSM5728939,SRR17197355,44540,81,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S34_1st,USA
+GSE190680,GSM5728940,SRR17197356,44540,81,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S34_2nd,USA
+GSE190680,GSM5728941,SRR17197357,44540,67,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S35_1st,USA
+GSE190680,GSM5728942,SRR17197358,44540,67,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S35_2nd,USA
+GSE190680,GSM5728943,SRR17197359,44540,83,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S38_1st,USA
+GSE190680,GSM5728944,SRR17197360,44540,83,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S38_2nd,USA
+GSE190680,GSM5728945,SRR17197361,44540,83,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S38_3rd,USA
+GSE190680,GSM5728946,SRR17197362,44540,69,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S42_1st,USA
+GSE190680,GSM5728947,SRR17197363,44540,69,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S42_2nd,USA
+GSE190680,GSM5728948,SRR17197364,44540,89,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S43_1st,USA
+GSE190680,GSM5728949,SRR17197365,44540,80,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S44_1st,USA
+GSE190680,GSM5728950,SRR17197366,44540,80,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S44_2nd,USA
+GSE190680,GSM5728951,SRR17197367,44540,80,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S44_3rd,USA
+GSE190680,GSM5728952,SRR17197368,44540,61,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S46_1st,USA
+GSE190680,GSM5728953,SRR17197369,44540,61,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S46_2nd,USA
+GSE190680,GSM5728954,SRR17197370,44540,61,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S46_3rd,USA
+GSE190680,GSM5728955,SRR17197371,44540,89,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S48_1st,USA
+GSE190680,GSM5728956,SRR17197372,44540,89,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S48_2nd,USA
+GSE190680,GSM5728957,SRR17197373,44540,80,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S49_1st,USA
+GSE190680,GSM5728958,SRR17197374,44540,80,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S49_2nd,USA
+GSE190680,GSM5728959,SRR17197375,44540,75,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S50_1st,USA
+GSE190680,GSM5728960,SRR17197376,44540,75,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S50_2nd,USA
+GSE190680,GSM5728961,SRR17197377,44540,77,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S55_1st,USA
+GSE190680,GSM5728962,SRR17197378,44540,49,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S56_2nd,USA
+GSE190680,GSM5728963,SRR17197379,44540,49,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S56_3rd,USA
+GSE190680,GSM5728964,SRR17197380,44540,48,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S61_2nd,USA
+GSE190680,GSM5728965,SRR17197381,44540,31,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S63_1st,USA
+GSE190680,GSM5728966,SRR17197382,44540,31,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S63_2nd,USA
+GSE190680,GSM5728967,SRR17197383,44540,72,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S66_1st,USA
+GSE190680,GSM5728968,SRR17197384,44540,72,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S66_2nd,USA
+GSE190680,GSM5728969,SRR17197385,44540,93,female,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S68_1st,USA
+GSE190680,GSM5728970,SRR17197386,44540,80,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S69_1st,USA
+GSE190680,GSM5728971,SRR17197387,44540,80,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S69_2nd,USA
+GSE190680,GSM5728972,SRR17197388,44540,92,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S70_1st,USA
+GSE190680,GSM5728973,SRR17197389,44540,92,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S70_2nd,USA
+GSE190680,GSM5728974,SRR17197390,44540,72,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S71_1st,USA
+GSE190680,GSM5728975,SRR17197391,44540,72,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S71_2nd,USA
+GSE190680,GSM5728976,SRR17197392,44540,30,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S72_1st,USA
+GSE190680,GSM5728977,SRR17197393,44540,30,male,acuteCOVID,"diseas state: COVID-19_Alpha varient",,Alpha_S72_2nd,USA
+GSE190680,GSM5728978,SRR17197394,44540,61,male,acuteCOVID,"diseas state: COVID-19_Gamma varient",,Gamma_S64_1st,USA
+GSE190680,GSM5728980,SRR17197396,44540,57,male,acuteCOVID,"diseas state: COVID-19_Gamma varient",,Gamma_S67_1st,USA
+GSE190747,GSM5730264,SRR17212566,44543,85,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_1_Day0,,USA
+GSE190747,GSM5730265,SRR17212567,44543,85,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_1_Day1,,USA
+GSE190747,GSM5730266,SRR17212568,44543,85,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_1_Day7,,USA
+GSE190747,GSM5730267,SRR17212569,44543,89,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_2_Day0,,USA
+GSE190747,GSM5730268,SRR17212570,44543,89,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_2_Day1,,USA
+GSE190747,GSM5730269,SRR17212571,44543,89,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_2_Day7,,USA
+GSE190747,GSM5730270,SRR17212572,44543,85,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_3_Day0,,USA
+GSE190747,GSM5730271,SRR17212573,44543,85,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_3_Day1,,USA
+GSE190747,GSM5730272,SRR17212574,44543,85,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_3_Day7,,USA
+GSE190747,GSM5730273,SRR17212575,44543,82,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_4_Day0,,USA
+GSE190747,GSM5730274,SRR17212576,44543,82,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_4_Day1,,USA
+GSE190747,GSM5730275,SRR17212577,44543,82,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_4_Day7,,USA
+GSE190747,GSM5730276,SRR17212578,44543,84,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_5_Day0,,USA
+GSE190747,GSM5730277,SRR17212579,44543,84,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_5_Day1,,USA
+GSE190747,GSM5730278,SRR17212580,44543,84,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_5_Day7,,USA
+GSE190747,GSM5730279,SRR17212581,44543,72,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_6_Day0,,USA
+GSE190747,GSM5730280,SRR17212582,44543,72,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_6_Day1,,USA
+GSE190747,GSM5730281,SRR17212583,44543,72,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_6_Day7,,USA
+GSE190747,GSM5730282,SRR17212584,44543,81,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_7_Day0,,USA
+GSE190747,GSM5730283,SRR17212585,44543,81,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_7_Day1,,USA
+GSE190747,GSM5730284,SRR17212586,44543,81,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_7_Day7,,USA
+GSE190747,GSM5730285,SRR17212587,44543,79,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_8_Day0,,USA
+GSE190747,GSM5730286,SRR17212588,44543,79,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_8_Day1,,USA
+GSE190747,GSM5730287,SRR17212589,44543,79,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_8_Day7,,USA
+GSE190747,GSM5730288,SRR17212590,44543,78,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_9_Day0,,USA
+GSE190747,GSM5730289,SRR17212591,44543,78,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_9_Day1,,USA
+GSE190747,GSM5730291,SRR17212593,44543,76,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_10_Day0,,USA
+GSE190747,GSM5730292,SRR17212594,44543,76,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_10_Day1,,USA
+GSE190747,GSM5730293,SRR17212595,44543,86,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_11_Day0,,USA
+GSE190747,GSM5730294,SRR17212596,44543,86,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_11_Day1,,USA
+GSE190747,GSM5730295,SRR17212597,44543,86,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_11_Day7,,USA
+GSE190747,GSM5730296,SRR17212598,44543,88,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_12_Day0,,USA
+GSE190747,GSM5730297,SRR17212599,44543,88,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_12_Day1,,USA
+GSE190747,GSM5730298,SRR17212600,44543,88,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_12_Day7,,USA
+GSE190747,GSM5730299,SRR17212601,44543,74,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_13_Day0,,USA
+GSE190747,GSM5730300,SRR17212602,44543,74,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_13_Day1,,USA
+GSE190747,GSM5730301,SRR17212603,44543,74,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_13_Day7,,USA
+GSE190747,GSM5730302,SRR17212604,44543,79,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_14_Day0,,USA
+GSE190747,GSM5730303,SRR17212605,44543,79,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_14_Day1,,USA
+GSE190747,GSM5730304,SRR17212606,44543,79,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_14_Day7,,USA
+GSE190747,GSM5730305,SRR17212607,44543,83,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_15_Day0,,USA
+GSE190747,GSM5730306,SRR17212608,44543,83,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_15_Day1,,USA
+GSE190747,GSM5730307,SRR17212609,44543,83,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_15_Day7,,USA
+GSE190747,GSM5730308,SRR17212610,44543,79,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_16_Day0,,USA
+GSE190747,GSM5730309,SRR17212611,44543,79,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_16_Day1,,USA
+GSE190747,GSM5730310,SRR17212612,44543,79,female,recovered,"condition: COVID-19 Recovered",BNT_Convalescent_16_Day7,,USA
+GSE205244,GSM6066161,SRR18922902,44677,40,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,"omicron sublineage: --",USA
+GSE205244,GSM6066159,SRR18922904,44677,27,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,"omicron sublineage: BA.2",USA
+GSE205244,GSM6066156,SRR18922907,44677,46,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,"omicron sublineage: BA.2",USA
+GSE205244,GSM6066155,SRR18922908,44677,49,male,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,"omicron sublineage: BA.2",USA
+GSE205244,GSM6066154,SRR18922909,44677,37,male,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,"omicron sublineage: BA.2",USA
+GSE205244,GSM6066153,SRR18922910,44677,13,male,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,"omicron sublineage: BA.2",USA
+GSE205244,GSM6066150,SRR18922913,44677,46,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,"omicron sublineage: BA.2",USA
+GSE205244,GSM6066148,SRR18922915,44677,65,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,"omicron sublineage: BA.2",USA
+GSE205244,GSM6066146,SRR18922917,44677,38,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,"omicron sublineage: BA.1",USA
+GSE205244,GSM6066145,SRR18922918,44677,43,male,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,"omicron sublineage: BA.2",USA
+GSE201530,GSM6066143,SRR18922920,44677,40,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_68_1st,USA
+GSE201530,GSM6066142,SRR18922921,44677,39,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_67_1st,USA
+GSE201530,GSM6066141,SRR18922922,44677,39,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_66_1st,USA
+GSE201530,GSM6066139,SRR18922924,44677,61,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_55_1st,USA
+GSE201530,GSM6066138,SRR18922925,44677,40,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_53_1st,USA
+GSE201530,GSM6066135,SRR18922928,44677,38,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_50_1st,USA
+GSE201530,GSM6066134,SRR18922929,44677,35,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_49_1st,USA
+GSE201530,GSM6066133,SRR18922930,44677,32,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_48_1st,USA
+GSE201530,GSM6066130,SRR18922933,44677,62,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_38_1st,USA
+GSE201530,GSM6066127,SRR18922936,44677,59,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_34_1st,USA
+GSE201530,GSM6066126,SRR18922937,44677,61,male,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_33_1st,USA
+GSE201530,GSM6066125,SRR18922938,44677,29,male,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_31_1st,USA
+GSE201530,GSM6066124,SRR18922939,44677,28,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_30_1st,USA
+GSE201530,GSM6066123,SRR18922940,44677,30,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_29_1st,USA
+GSE201530,GSM6066122,SRR18922941,44677,36,male,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_28_1st,USA
+GSE201530,GSM6066121,SRR18922942,44677,32,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_27_1st,USA
+GSE201530,GSM6066120,SRR18922943,44677,83,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_26_1st,USA
+GSE201530,GSM6066119,SRR18922944,44677,54,male,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_25_1st,USA
+GSE201530,GSM6066118,SRR18922945,44677,51,female,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_24_1st,USA
+GSE201530,GSM6066114,SRR18922949,44677,83,male,acuteCOVID,"group (by covid-19 vaccination prior infection): No vaccination No prior infection",,Omicron_17_1st,USA
+GSE206263,GSM6248884,SRR19681163,44728,60,female,healthy,"655A91 NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248883,SRR19681164,44728,51,male,healthy,"52BA23 NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248882,SRR19681165,44728,25,male,healthy,"E9CFE0 NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248881,SRR19681166,44728,44,female,healthy,"94D44E NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248881,SRR19681167,44728,44,female,healthy,"94D44E NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248880,SRR19681168,44728,39,female,healthy,"3F3322 NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248880,SRR19681169,44728,39,female,healthy,"3F3322 NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248855,SRR19681170,44728,52,male,acuteCOVID,"40067F 0 Severe Negative","serostatus: Negative",,USA
+GSE206263,GSM6248854,SRR19681171,44728,57,male,exposedNoSymptoms,"61BBAD 14 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248853,SRR19681172,44728,57,male,exposedNoSymptoms,"61BBAD 7 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248852,SRR19681173,44728,57,male,exposedNoSymptoms,"61BBAD 0 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248851,SRR19681174,44728,30,male,acuteCOVID,"3F05F3 28 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248850,SRR19681175,44728,30,male,acuteCOVID,"3F05F3 7 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248849,SRR19681176,44728,30,male,acuteCOVID,"3F05F3 0 Severe Negative","serostatus: Negative",,USA
+GSE206263,GSM6248848,SRR19681177,44728,30,female,acuteCOVID,"DF309F 14 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248847,SRR19681178,44728,30,female,acuteCOVID,"DF309F 7 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248846,SRR19681179,44728,30,female,acuteCOVID,"DF309F 0 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248845,SRR19681180,44728,27,female,acuteCOVID,"75A2B6 14 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248844,SRR19681181,44728,27,female,acuteCOVID,"75A2B6 7 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248843,SRR19681182,44728,27,female,acuteCOVID,"75A2B6 0 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248842,SRR19681183,44728,28,male,acuteCOVID,"BAAF62 14 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248841,SRR19681184,44728,28,male,acuteCOVID,"BAAF62 7 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248840,SRR19681185,44728,28,male,acuteCOVID,"BAAF62 0 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248839,SRR19681186,44728,30,female,acuteCOVID,"1A9B20 14 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248838,SRR19681187,44728,30,female,acuteCOVID,"1A9B20 7 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248837,SRR19681188,44728,30,female,acuteCOVID,"1A9B20 0 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248836,SRR19681189,44728,32,female,acuteCOVID,"82CCF5 14 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248836,SRR19681190,44728,32,female,acuteCOVID,"82CCF5 14 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248835,SRR19681191,44728,32,female,acuteCOVID,"82CCF5 7 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248835,SRR19681192,44728,32,female,acuteCOVID,"82CCF5 7 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248834,SRR19681193,44728,32,female,acuteCOVID,"82CCF5 0 Severe Negative","serostatus: Negative",,USA
+GSE206263,GSM6248834,SRR19681194,44728,32,female,acuteCOVID,"82CCF5 0 Severe Negative","serostatus: Negative",,USA
+GSE206263,GSM6248879,SRR19681195,44728,27,female,healthy,"E0FA1E NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248879,SRR19681196,44728,27,female,healthy,"E0FA1E NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248833,SRR19681197,44728,29,female,acuteCOVID,"180E1A 14 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248878,SRR19681198,44728,25,male,healthy,"062CD8 NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248878,SRR19681199,44728,25,male,healthy,"062CD8 NA Healthy Healthy","serostatus: Healthy",,USA
+GSE206263,GSM6248877,SRR19681200,44728,38,female,exposedNoSymptoms,"6F894A 14 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248876,SRR19681201,44728,38,female,exposedNoSymptoms,"6F894A 7 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248875,SRR19681202,44728,38,female,exposedNoSymptoms,"6F894A 0 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248874,SRR19681203,44728,41,male,exposedNoSymptoms,"B96D3B 28 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248873,SRR19681204,44728,41,male,exposedNoSymptoms,"B96D3B 14 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248872,SRR19681205,44728,41,male,exposedNoSymptoms,"B96D3B 0 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248871,SRR19681206,44728,44,male,exposedNoSymptoms,"5ABDCB 28 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248870,SRR19681207,44728,44,male,exposedNoSymptoms,"5ABDCB 14 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248869,SRR19681208,44728,44,male,exposedNoSymptoms,"5ABDCB 0 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248868,SRR19681209,44728,45,female,acuteCOVID,"0BF51C 14 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248867,SRR19681210,44728,45,female,acuteCOVID,"0BF51C 7 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248866,SRR19681211,44728,45,female,acuteCOVID,"0BF51C 0 Severe Negative","serostatus: Negative",,USA
+GSE206263,GSM6248865,SRR19681212,44728,43,male,exposedNoSymptoms,"80A16A 14 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248864,SRR19681213,44728,43,male,exposedNoSymptoms,"80A16A 0 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248863,SRR19681214,44728,17,female,exposedNoSymptoms,"CE0CE8 28 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248862,SRR19681215,44728,17,female,exposedNoSymptoms,"CE0CE8 14 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248861,SRR19681216,44728,17,female,exposedNoSymptoms,"CE0CE8 0 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248860,SRR19681217,44728,20,male,acuteCOVID,"0E1F8E 14 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248859,SRR19681218,44728,20,male,acuteCOVID,"0E1F8E 7 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248858,SRR19681219,44728,20,male,acuteCOVID,"0E1F8E 0 Severe Negative","serostatus: Negative",,USA
+GSE206263,GSM6248857,SRR19681220,44728,52,male,acuteCOVID,"40067F 21 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248833,SRR19681221,44728,29,female,acuteCOVID,"180E1A 14 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248856,SRR19681222,44728,52,male,acuteCOVID,"40067F 14 Severe Negative","serostatus: Negative",,USA
+GSE206263,GSM6248832,SRR19681223,44728,29,female,acuteCOVID,"180E1A 7 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248832,SRR19681224,44728,29,female,acuteCOVID,"180E1A 7 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248831,SRR19681225,44728,29,female,acuteCOVID,"180E1A 0 Severe Negative","serostatus: Negative",,USA
+GSE206263,GSM6248831,SRR19681226,44728,29,female,acuteCOVID,"180E1A 0 Severe Negative","serostatus: Negative",,USA
+GSE206263,GSM6248830,SRR19681227,44728,32,female,acuteCOVID,"B85D75 7 Severe Positive","serostatus: Positive",,USA
+GSE206263,GSM6248829,SRR19681228,44728,32,female,acuteCOVID,"B85D75 0 Severe Negative","serostatus: Negative",,USA
+GSE206263,GSM6248828,SRR19681229,44728,27,male,acuteCOVID,"2AD75E 14 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248827,SRR19681230,44728,27,male,acuteCOVID,"2AD75E 7 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248826,SRR19681231,44728,27,male,acuteCOVID,"2AD75E 0 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248825,SRR19681232,44728,29,male,acuteCOVID,"7085CA 14 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248825,SRR19681233,44728,29,male,acuteCOVID,"7085CA 14 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248824,SRR19681234,44728,29,male,acuteCOVID,"7085CA 7 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248824,SRR19681235,44728,29,male,acuteCOVID,"7085CA 7 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248823,SRR19681236,44728,29,male,acuteCOVID,"7085CA 0 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248823,SRR19681237,44728,29,male,acuteCOVID,"7085CA 0 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248822,SRR19681238,44728,34,male,acuteCOVID,"0B943B 14 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248822,SRR19681239,44728,34,male,acuteCOVID,"0B943B 14 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248821,SRR19681240,44728,34,male,acuteCOVID,"0B943B 3 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248820,SRR19681241,44728,34,male,acuteCOVID,"0B943B 0 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248820,SRR19681242,44728,34,male,acuteCOVID,"0B943B 0 Mild Negative","serostatus: Negative",,USA
+GSE206263,GSM6248819,SRR19681243,44728,61,female,exposedNoSymptoms,"7768E4 14 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248819,SRR19681244,44728,61,female,exposedNoSymptoms,"7768E4 14 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248818,SRR19681245,44728,61,female,exposedNoSymptoms,"7768E4 7 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248817,SRR19681246,44728,61,female,exposedNoSymptoms,"7768E4 0 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248817,SRR19681247,44728,61,female,exposedNoSymptoms,"7768E4 0 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248817,SRR19681248,44728,61,female,exposedNoSymptoms,"7768E4 0 Exposed Exposed","serostatus: Exposed",,USA
+GSE206263,GSM6248816,SRR19681249,44728,60,male,acuteCOVID,"450905 14 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248815,SRR19681250,44728,60,male,acuteCOVID,"450905 7 Mild Positive","serostatus: Positive",,USA
+GSE206263,GSM6248814,SRR19681251,44728,60,male,acuteCOVID,"450905 0 Mild Negative","serostatus: Negative",,USA
+GSE224615,GSM7027513,SRR23348793,44963,33,female,longCOVID,"lc status: LC",147_PASC_WT,,USA
+GSE224615,GSM7027512,SRR23348794,44963,43,female,longCOVID,"lc status: LC",447_PASC_WT,,USA
+GSE224615,GSM7027511,SRR23348795,44963,46,female,longCOVID,"lc status: LC",927_PASC_WT,,USA
+GSE224615,GSM7027510,SRR23348796,44963,54,male,longCOVID,"lc status: LC",923_PASC_WT,,USA
+GSE224615,GSM7027509,SRR23348797,44963,32,male,healthy,"lc status: Non-LC",896_Non-PASC_WT,,USA
+GSE224615,GSM7027508,SRR23348798,44963,50,female,healthy,"lc status: Non-LC",102_Non-PASC_WT,,USA
+GSE224615,GSM7027507,SRR23348799,44963,59,male,longCOVID,"lc status: LC",621_PASC_WT,,USA
+GSE224615,GSM7027506,SRR23348800,44963,49,female,longCOVID,"lc status: LC",414_PASC_WT,,USA
+GSE224615,GSM7027505,SRR23348801,44963,52,female,longCOVID,"lc status: LC",717_PASC_WT,,USA
+GSE224615,GSM7027504,SRR23348802,44963,26,female,longCOVID,"lc status: LC",804_PASC_WT,,USA
+GSE224615,GSM7027503,SRR23348803,44963,48,male,longCOVID,"lc status: LC",213_PASC_WT,,USA
+GSE224615,GSM7027502,SRR23348804,44963,48,female,longCOVID,"lc status: LC",161_PASC_WT,,USA
+GSE224615,GSM7027501,SRR23348805,44963,65,male,longCOVID,"lc status: LC",476_PASC_WT,,USA
+GSE224615,GSM7027500,SRR23348806,44963,71,female,longCOVID,"lc status: LC",245_PASC_WT,,USA
+GSE224615,GSM7027499,SRR23348807,44963,44,female,longCOVID,"lc status: LC",831_PASC_WT,,USA
+GSE224615,GSM7027498,SRR23348808,44963,68,male,healthy,"lc status: Non-LC",439_Non-PASC_WT,,USA
+GSE224615,GSM7027497,SRR23348809,44963,53,male,healthy,"lc status: Non-LC",741_Non-PASC_WT,,USA
+GSE224615,GSM7027496,SRR23348810,44963,25,male,longCOVID,"lc status: LC",670_PASC_WT,,USA
+GSE224615,GSM7027495,SRR23348811,44963,46,female,longCOVID,"lc status: LC",799_PASC_WT,,USA
+GSE224615,GSM7027494,SRR23348812,44963,43,female,longCOVID,"lc status: LC",546_PASC_WT,,USA
+GSE224615,GSM7027493,SRR23348813,44963,52,male,healthy,"lc status: Non-LC",230_Non-PASC_WT,,USA
+GSE224615,GSM7027492,SRR23348814,44963,51,female,longCOVID,"lc status: LC",560_PASC_WT,,USA
+GSE224615,GSM7027491,SRR23348815,44963,34,female,longCOVID,"lc status: LC",871_PASC_WT,,USA
+GSE224615,GSM7027490,SRR23348816,44963,57,female,longCOVID,"lc status: LC",709_PASC_WT,,USA
+GSE224615,GSM7027489,SRR23348817,44963,67,male,longCOVID,"lc status: LC",233_PASC_WT,,USA
+GSE224615,GSM7027488,SRR23348818,44963,31,male,longCOVID,"lc status: LC",900_PASC_WT,,USA
+GSE224615,GSM7027487,SRR23348819,44963,60,male,healthy,"lc status: Non-LC",564_Non-PASC_WT,,USA
+GSE224615,GSM7027486,SRR23348820,44963,71,male,longCOVID,"lc status: LC",204_PASC_WT,,USA
+GSE224615,GSM7027485,SRR23348821,44963,48,male,healthy,"lc status: Non-LC",313_Non-PASC_WT,,USA
+GSE224615,GSM7027484,SRR23348822,44963,40,female,healthy,"lc status: Non-LC",526_Non-PASC_WT,,USA
+GSE224615,GSM7027483,SRR23348823,44963,19,female,longCOVID,"lc status: LC",283_PASC_WT,,USA
+GSE224615,GSM7027482,SRR23348824,44963,40,male,healthy,"lc status: Non-LC",912_Non-PASC_WT,,USA
+GSE224615,GSM7027481,SRR23348825,44963,59,male,healthy,"lc status: Non-LC",914_Non-PASC_WT,,USA
+GSE224615,GSM7027480,SRR23348826,44963,38,female,healthy,"lc status: Non-LC",608_Non-PASC_WT,,USA
+GSE224615,GSM7027479,SRR23348827,44963,43,female,healthy,"lc status: Non-LC",913_Non-PASC_WT,,USA
+GSE224615,GSM7027478,SRR23348828,44963,37,female,healthy,"lc status: Non-LC",942_Non-PASC_WT,,USA
