@@ -1,6 +1,5 @@
 # ==============================================
-# File: run_fastqc_multiqc.R
-# Project: LONG_COVID-003
+# File: fastqc_multiqc.R
 # Description:
 #   Runs FastQC and MultiQC on FASTQ files that match
 #   SRR numbers in the metadata file.

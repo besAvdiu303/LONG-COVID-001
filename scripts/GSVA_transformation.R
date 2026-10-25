@@ -3,9 +3,9 @@
 # GSVA_transformation.R
 #
 # Description:
-# Performs Gene Set Variation Analysis (GSVA) directly on
-# variance-stabilized (VST) normalized counts (no batch correction
-# or outlier filtering), followed by differential pathway analysis
+# Performs Gene Set Variation Analysis (GSVA) on the
+# variance-stabilized (VST) counts after limma batch correction
+# (no outlier filtering), followed by differential pathway analysis
 # using limma. Generates publication-quality volcano plots,
 # combined 2×2 volcano layouts, and QC visualizations
 # (heatmap, PCA, optional UMAP).

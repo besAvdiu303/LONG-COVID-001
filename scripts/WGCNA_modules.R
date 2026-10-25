@@ -3,10 +3,10 @@
 #
 # Description:
 # Performs Weighted Gene Co-expression Network Analysis (WGCNA)
-# on VST-normalized expression data (no batch correction or outlier filtering).
+# on VST-normalized, limma batch-corrected expression data (no outlier filtering).
 #
 # Inputs:
-#   - results/diff_exp_analysis/VST_data.RDS  (DESeq2 output)
+#   - results/diff_exp_analysis/VST_data_limma_corrected.RDS  (DESeq2 output)
 #   - data/metadata/metadata_harmonized.csv
 #
 # Outputs:
